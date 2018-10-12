@@ -7,3 +7,5 @@ gem "octokit", "~> 2.0"
 group :development do
 gem "pry"
 end
+
+gem 'awesome_print', git: 'git@github.com:awesome_print/awesome_print.git'
